@@ -6,7 +6,8 @@ This repository contains my completed tasks for the CodeAlpha Data Science inter
 
 ### **Task 2: Exploratory Data Analysis (EDA)**
 
-loan_data_for_dashboard.csv file
+Refined file
+"loan_data_for_dashboard.csv file"
 
 * **Objective:** To understand the structure, characteristics, and initial patterns within the loan dataset.
 * **Key Activities:**
