@@ -9,6 +9,7 @@ This repository contains my completed tasks for the CodeAlpha Data Science inter
 Refined file
 "loan_data_for_dashboard.csv file"
 
+Colab file
 Drive link: https://colab.research.google.com/drive/1tGKlWwx2EYOA0O4woo_qmSbmp7c9D4g7?usp=sharing
 
 * **Objective:** To understand the structure, characteristics, and initial patterns within the loan dataset.
