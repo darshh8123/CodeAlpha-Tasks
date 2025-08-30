@@ -13,4 +13,5 @@ Performed Dasboard
 .
 
 The final Dashboard(Data Visulization)
-<img width="1549" height="656" alt="Screenshot 2025-08-12 024631" src="https://github.com/user-attachments/assets/28a5f779-4144-43b0-8a96-9ffe39cf7113" />
+<img width="1549" height="656" alt="Screenshot 2025-08-12 024631" src="https://github.com/user-attachments/assets/59cdb346-5a80-4f43-891c-d519b0df5422" />
+
