@@ -19,6 +19,8 @@ loan_data_for_dashboard.csv file
 <img width="978" height="806" alt="Screenshot 2025-08-12 103228" src="https://github.com/user-attachments/assets/54b5fc19-2b95-4253-a030-3f820ff14501" />
 Data inspection using Google colab
 
+
+
 <img width="1549" height="656" alt="Screenshot 2025-08-12 024631" src="https://github.com/user-attachments/assets/b6e79368-c588-44e4-b871-04a2a313d335" />
 Refined Dataset
 
